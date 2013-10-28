@@ -212,3 +212,8 @@ application configuration file with the following code.
 
 That's it! Now, when deciding whether or not a user should have access,
 the new voter will deny access to any user in the list of blacklisted IPs.
+
+.. note::
+
+    For a more advanced usage see :ref:`components-security-authorization-access-decision-manager`
+
