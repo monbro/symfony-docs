@@ -69,6 +69,10 @@ recognizes several strategies:
         $allowIfAllAbstainDecisions,
         $allowIfEqualGrantedDeniedDecisions
     );
+    
+.. note::
+
+    You can change the default strategy in the configuration: :ref:`book-security-voters-changing-the-access-decision-strategy`
 
 Voters
 ------
